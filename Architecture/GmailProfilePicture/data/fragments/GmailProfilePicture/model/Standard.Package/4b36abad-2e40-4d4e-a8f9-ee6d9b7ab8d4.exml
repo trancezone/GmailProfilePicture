@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Techiix.Android.Views" version="4">
+  <OBJECT>
+    <ID name="Techiix.Android.Views" mc="Standard.Package" uid="4b36abad-2e40-4d4e-a8f9-ee6d9b7ab8d4"/>
+    <PID name="GmailProfilePicture" mc="Standard.Project" uid="c48f78fd-8e6b-49d1-bbb7-d7d8cf8729f5"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Techiix.Android.Views]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="31298015-8765-41a5-b1e7-ecc6d9e3354d"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="ColorPallet" mc="Standard.Class" uid="b0873f66-7bcb-4958-9b58-7c5c270bb734"/>
+        <COMPID name="Random" mc="Standard.DataType" uid="869a0c11-a6cb-4224-87c6-6baa0bb5b6b1"/>
+        <COMPID name="Color" mc="Standard.DataType" uid="43ec5e92-481e-4722-9aa0-af747c110f80"/>
+        <COMPID name="Color[]" mc="Standard.DataType" uid="83c4a7b3-2c57-44b4-b2a1-b3f0cadb4769"/>
+        <COMPID name="Dictionary&lt;string,color&gt;" mc="Standard.DataType" uid="3e78b433-942c-41fb-9bb6-e52e0b432fcb"/>
+        <COMPID name="GmailProfilePicture" mc="Standard.Class" uid="adde5147-b1f2-46b3-a872-a88b7bb3f7eb"/>
+        <COMPID name="CircleData" mc="Standard.Class" uid="bbace15e-b27b-4339-bd0a-d7cdcca1e696"/>
+        <COMPID name="Context" mc="Standard.DataType" uid="50650f8b-9c08-4078-93e6-59fba89f52a1"/>
+        <COMPID name="IAttributeSet" mc="Standard.DataType" uid="f2b4bc5a-1b27-4a2a-838f-f90f750ef4b9"/>
+        <COMPID name="Canvas" mc="Standard.DataType" uid="bed0c8f5-599f-420c-b626-091a26ae39cc"/>
+        <COMPID name="TextPaint" mc="Standard.DataType" uid="09356211-2dc0-4e70-b68e-dff7cda945af"/>
+        <COMPID name="Paint" mc="Standard.DataType" uid="db61f802-4dda-4e4c-abd5-30c5d38625bc"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="GetterSetter" mc="Infrastructure.Stereotype" uid="ef75aa7a-8940-4923-ac6b-ffbce616476b"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="GmailProfilePicture Class diagram" mc="Standard.ClassDiagram" uid="62456b41-eb75-4b6b-883c-ccf047dd66b8"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

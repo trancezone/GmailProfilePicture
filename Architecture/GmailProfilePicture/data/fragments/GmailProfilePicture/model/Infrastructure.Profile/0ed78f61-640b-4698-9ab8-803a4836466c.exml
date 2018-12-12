@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LocalProfile" version="4">
+  <OBJECT>
+    <ID name="LocalProfile" mc="Infrastructure.Profile" uid="0ed78f61-640b-4698-9ab8-803a4836466c"/>
+    <PID name="LocalModule" mc="Infrastructure.ModuleComponent" uid="aaa9d045-8784-413b-a759-cb6f5ecbe9ab"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[LocalProfile]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="CSharpClass" mc="Infrastructure.Stereotype" uid="a6771149-c6bc-4a53-aa53-7f335e5762f9"/>
+        <COMPID name="Return values" mc="Infrastructure.Stereotype" uid="ff2d7a92-fa04-4dd9-b4ef-c2585be6f844"/>
+        <COMPID name="GetterSetter" mc="Infrastructure.Stereotype" uid="ef75aa7a-8940-4923-ac6b-ffbce616476b"/>
+        <COMPID name="GetterSetter" mc="Infrastructure.Stereotype" uid="c6b1901f-b733-4cd6-bbbf-79ff7882ac76"/>
+        <COMPID name="Exceptios" mc="Infrastructure.Stereotype" uid="32bb7ad0-b809-4129-8fe3-20056dfe5c11"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

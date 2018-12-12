@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Color[]" version="4">
+  <OBJECT>
+    <ID name="Color[]" mc="Standard.DataType" uid="83c4a7b3-2c57-44b4-b2a1-b3f0cadb4769"/>
+    <PID name="Techiix.Android.Views" mc="Standard.Package" uid="4b36abad-2e40-4d4e-a8f9-ee6d9b7ab8d4"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">true</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Color[]]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

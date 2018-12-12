@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GmailProfilePicture" version="4">
+  <OBJECT>
+    <ID name="GmailProfilePicture" mc="Standard.Project" uid="c48f78fd-8e6b-49d1-bbb7-d7d8cf8729f5"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[GmailProfilePicture]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Techiix.Android.Views" mc="Standard.Package" uid="4b36abad-2e40-4d4e-a8f9-ee6d9b7ab8d4"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="GmailProfilePicture" mc="Infrastructure.DiagramSet" uid="98770b47-e8e1-42b1-82ce-62bd9292c2ff"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="CSharpClass" mc="Infrastructure.Stereotype" uid="a6771149-c6bc-4a53-aa53-7f335e5762f9"/>
+        <ID name="Return values" mc="Infrastructure.Stereotype" uid="ff2d7a92-fa04-4dd9-b4ef-c2585be6f844"/>
+        <ID name="GetterSetter" mc="Infrastructure.Stereotype" uid="c6b1901f-b733-4cd6-bbbf-79ff7882ac76"/>
+        <ID name="Exceptios" mc="Infrastructure.Stereotype" uid="32bb7ad0-b809-4129-8fe3-20056dfe5c11"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

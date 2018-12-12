@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Return values" version="4">
+  <OBJECT>
+    <ID name="Return values" mc="Infrastructure.Stereotype" uid="ff2d7a92-fa04-4dd9-b4ef-c2585be6f844"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="0ed78f61-640b-4698-9ab8-803a4836466c"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="LabelKey"><![CDATA[Return values]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[ModelElement]]></ATT>
+      <ATT name="Name"><![CDATA[Return values]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GetterSetter" version="4">
+  <OBJECT>
+    <ID name="GetterSetter" mc="Infrastructure.Stereotype" uid="ef75aa7a-8940-4923-ac6b-ffbce616476b"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="0ed78f61-640b-4698-9ab8-803a4836466c"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="LabelKey"><![CDATA[GetterSetter]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Package]]></ATT>
+      <ATT name="Name"><![CDATA[GetterSetter]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CollorPallet activity diagram" version="4">
+  <OBJECT>
+    <ID name="CollorPallet activity diagram" mc="Standard.ActivityDiagram" uid="793b6988-f044-4710-a69c-e73f980e067f"/>
+    <PID name="Activity" mc="Standard.Activity" uid="31298015-8765-41a5-b1e7-ecc6d9e3354d"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">51</ATT>
+      <ATT name="UiData"><![CDATA[eJztnW9zmzoWh7+KJ7Mvdl+Qoj9IYt3bO23T25tp2nTS7u7sq44AkXCLTRbjNvn2K2wndZwYYwxCKJq5d6YhAQk45+ic3yOJl7/fTNLRD5HPkmz62xE4do9Gv796eR78JcJilETy0NGouL0Wvx1l+eXxJItEmmTHUcIvcz45FlFSZPkxD4vkR1LcHotUTMS0mN0fufvD95PXqyMnyyNHown/K8u/3TftHr16+TnPrkVe3I6mfCJbTPltNi9OeMHl7/7N07lYdWU6T9OjF69evrg74dGpX4rbVBw9uBFYdSOz8u9nx2GWi+PluTX695bPQh6J6K6xdzfFhYhrtvJJXmJ15kjcFCfBqezj4p/lPyIR83labNzki+XtVN14LlJeiEj2Y+OZfSwPjX6UR8rHw6cRz6Pjjbcyoj4KiM+YE7sYO5gC1+HEDx1BUewzV7iExtVPPuWz4sM0+zk944FINzrxpciT6eXRq7dZmmb5Z56mohjd2cpo9ZhevlicUnmXWSpOp2+zyXU2Swr5fra0U+NSb6+SNMpFeYWzZFY8MBnUyPaTqewST6XNny7/dZCtX8jO8OllaSarlwcRGPtojKD8b28vwJ17QekCS3/r2nhXj/eTvIuRcHEcCo9Imw2Ygzl3ncAHwnFZ5AeAQcJj3oLhrpoclW3qY6deO3b6OU8mPL8t761lk3XHbkN7JXXtVV7q5vZgo8XWaGsb7UeeTLdd8v65rb1KWmmld1YZZpNJNj1Oy/s5Ljsk7bMcK5c3eIhZnk4LcSny+1cCyN7WyKw16mqNX+Rtp2lS1Lnm7Cr7+S0JH13rTSYb49P7xxTzdCaqb3lxqe/i9meWRy1creDh92+zQuQia6lv6ROvYvNaRT7fvNQvU1uONjt8229cJUhfXxYH8m20O+ggn4wRdceAeWPi7u3rwDUoVTq/5v+bi+VjHnkREjgKuUPCwHWwy0pHR8RhARHEozF0KWgjyb8S4fdRcSVG0j9kYSPtaDZKposjUbLoisw29MmiQPNSd82Iu02imtpy7eK3nYELbHbRWnTrKdY+lt2skL07MpUnXAn5nvM1Hafs1p+Lg+qlHKCuigU2NrdiyUv7aTE3eyJn0SU1q9m1QzOzdYdopgBsDF1vsui2B2dWXOJbj27HowNpLZWl/+PKYaOlJ1Km49Ub3VW61/GJBnrD4q9Wv5JucbJU4T+WR98tj7YvQ2wW+TU8RrEMYbO5djzmdMIvlzqW1Sg61ii2RJo2w0szySMSYVL2YCLyS7EIMcufP5Y/t1wwYpeOCQANlXdokv7x4DEv1E4UUeKHgjoeZJ6DfU/GFzdkjhdRhn3ohtDfEZlrBZm7hp1Fy/qIHbCZ2FFpvjryI6hY+YDdj5Xm2fK+JAlW6xmDQEmwtoZhDbM3w7RQqXPpAjaTLjYHotPp9bx4I674jySb51/FTdGqgz/ynhoOrljXsA7etoPvyUBhteDQDwQlPhtT1xsDgpqAI1hbahhAEfBAZIhi5KKYuQ6Opb1iQaAj7TVwsEdjQHzgAxy0YLkXopjnS00hzNIsH8V5NtEWgcJWOH7HCLSZJaPa5WxL4ZhZe9YGgKLDZrFrB0BR95PZ7+wYKRZ/zbRjiz+7rCFQ8/kNveNPpFgHsP78HOAnqq6qBww/keqy2uZxFn3qq6T1gT6RjkIHdMmYEjgGXqMZsshYoQNAhiMeRU7gx8jBPmQOiwh1YhIKhAVEMfbbCCiy7WyS3o5m8oXLh8o348r1YrWnPloHGoLW0cyYsWKtAykeI4016ZbkDmyY3IHVyR1YcXlkrClbxaNLxQMPWPHAihUP69LPRPTAxooeWLHoYRM6q3tY3eNRfNFR9ygneTOGxwA3wuLYWN0DBjGEPoPlAhIZUwLEHZ+GoeO5EMSeL3wc7DDUWjHli3zpYk1HTaZFttJRb1Y66kh2b5QvBddEIwUED0EBaWbWnmIFBCseMJ+BcbekhXiGaSGeOi3EU1w4PQOjtqpIl6qIN2BVxFOsiljnbt25dddHPGP1EU/1NpE23WvbeaxSYpBS4jVXSsojcTJd7Et7l2//Uf7ccnHJIB37Lmu4rNgzSTZ58JiXW4HSkPiEUSd2EXVwBGOHYwIc4VESM0oDHLaxFehdw6NFy7ptqtxcHdlqwzqukCeKpRKv+7HTUIPed5k8qZY+BrFMnijev8FaZ1PrtGvlVeVv9VO7s2T6ffbU4EaaKSXyjRXSHuI0+ymDxNvlT3/In/YOE+t9qVQ+1tqWTp7KG5Itf+bFVZ0mv2TzPBSvp+FVlm80WrcWvmuULy4yk41f8NsvaRLxIL27co2eREkcS6OahmLDFE4S2dIi7b6Pkv4YbNLuGlHoRMyKJ++0sjbu9U49bww3h4Qad1q+/ZUZrRxglx9cSMMT+Ydkuhki3k3nk3/WSuE/iNu/SYOfikWttLzgaXR/K+cXX/88f3/+6fXZjpCwsMgL/n3z6ewWDQueX4qi3qk1nuJTg21l2TawqmYtOo1c6kaAUe4QlzIHxyx0eCyE47uABTgmXMCohQH2k7gp/j4RxVUW/aPGKLiMTuvJR3UfSg9f+2uwYxNE2Zmlv5UjwEd+/fBVVxawqwFAjoZF8n39izFxlk946QDlEHCZZ/Prxd4r94fLp/06zxsMCAcL6KSyXms/U5TOYqAJt5gQltZSmsk3XhpE7a/EVJajTwxXv8xcmuIf+RLm8PRXrD7LQl7UG7vi1embI1c2D9Zr7WO6w1PnOwqhHRMafhx2etEOTaOHkXMRXYpF7jtbU0HeyYPv59K21ccHqg6cmxka9hzd6oaJy9IcakeHujv/PRkdfsWEd9PoOkv2CQ27XHpHRNjl0s6O88Wj1LWpV9etthRDwGY+XVnF2TG/V8ee8GS6VD+sItTVjBe6b3HfR7bUb7K0a+vGtrKlw5Dn1mzpPyK5vDpsM8tmoVUd4bRRdY+o+nNhD7XzpWqIOdx8SVW6xKrL0b11ktICZ+/LA+pdmlUWdDZb6k8hWVhIk/kK9XamZZWlryZZQs+aivPoKzct5gkvFvJr1RSsktS1OAGLacT3WB98j+nL9zwwxg2o1za+x/Tle4CMQYMxwPK9jvgeM5XvAY9GMODIiVkQOFgExGFRgB3OfYQjRHn0aMZ2k6F/rckmeG8XsNvge/AQvsda5nu95q2KyR5Tm7cqMt4B5q2+ZYH95q3r76IjGtiXvuWrw4FmxpP9BsNu5C3fVByoSt7yq2uzAU4D8hUjQTOdu/dpQP4QwNazmAbka/od7WbRQfGns82MDt0M/Xa+QPfzBfyDeKCdL9BeWAVuHbI4nOmVwK1NF21UVRhV95peCdyDSKHGBVW38yuV8z3gagT4gNsH4QOuvogP0HGDELWN8AFXX8QH0Rhs7tdjEd/W3KFzxAdcUxkf93EUMjns0gC6Doae7/gAYceFbswYdoWPw/4Z3y5ot8n4dmxrXcn4gFsH8g1IkwdubdJ3sPGWjvLszbcbVR6Ag7idxlmkKlkeALPW3gGgjrZZx+6sOgSm4jZlq+8AaBm49TkvBwDFrM1Q1x7gzBwALJ/TZmoOAHXWng2K4gOgGNTZ0NINxwdgCMTpWYB8AOuWZUMg+QAqXs1maISwLH+oLB/AISzrMxfmq4d+UCfoB3uBflBj6Eca7Wa5lfpBfakfhpb6aUX9oKnUjwnuB4FHnJBT7GDOiCP/J44gkRv4Qh5FOzYV15D6oYOoH+yI+vXFBqBC6AfV5vBaWm83bACZyvzUsQFUB/oNS8ZDij/fYKiD9y/joYPQn5XxWpTxkEk7eAKkmiGaGSGsjDdYGQ8NAaWaK+M9eBUtg9ReZ2cg1QjVzMg6xNkZyEJXfWZn4I4W+vU2SxurW+lnaEzRYpY2NnWtn2FL/bBO1A/3Qv2wxtTPZWO89T02wH5YX+wH8BhtOpfFflvzh+6xHzYV+0UwoDEJQgdHDDqYQeYEASUOQCETIAARxjvKdBXYbxfH28B++CDsh6ux38BkP6x4T8/SVZ69AVvZTyPZzxvC5qbPQ/bzzAOvnmrwamZ87R+8eha86gJePZPWbnqquasNELrQAW8IwPG50AGvo+8G9jWb01P33UBDQ4oOszk9U78bqG42JzEN+xGF2M96dmfYj1jsNwjsR3TCfqQX7Ec0xn4QjXEDJrIV+xGNsR8cP8qGLfbbWhh0j/2IqdgPRRx7KMIOg54ch0XEnYCR2AkjxiGlbsRBG5/wPRD77eJ4G9jPOwj7kZY/5KeBNk1Usz/FH6JWZMX9a9N0CAjreWjTtGWE1as2TVXDKxsgdNGmqcVd+mjTtA7wGpKERWtDLxtTNJaw6EEA67lKWA+eoGHUiSqkTtaxu6JO1FKnQx2bGbXHJ1O9x6f1bTtLWKtZwszu8fm89vhkOmE/1gv2YzpjPzLGbW7yyfTFfhCN4eZ3TS322xplusd+zFTsF+MwQtT1HBpRJtMggGRCJFyHIyoToVh4QbRjiFGyyadK7MdM+7QfU7jLp+LvQ2tpvh1Jb76p23wqq9B98xab+ap5nZkO3j/Q9y190wXo+yYtNvNVLzazAUIXoO/bxWb6AH2/GvsNjA74qje4NDOqWDowWDrgD2GfT3PpwNqrgG5Hy/16mlEBXYWr/Wxc7WhGBXRNXezX7YwKNdhvJxh5c3mS85/ytZ/xW5FvOmi9Wj1aXmEmszl5jTKBW7+kmriy31l7evZdsDxZ3vmI+iggPmNO7GLsYAqkYxM/dARFsc9c4RIaV3cg2TSdO987eX989vq/7y6+vXn99sP7i/N/fTppuXKqoAtrr212f6kHBlEP1lqD6MAgvp5/btsStv7q/2sb3B0=]]></ATT>
+      <ATT name="Name"><![CDATA[CollorPallet activity diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Initial Node" mc="Standard.InitialNode" uid="e04fce56-47b8-4aa0-b91e-08d9b1826afa"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Check the key exists in the dictionary" mc="Standard.OpaqueAction" uid="5d3e4dca-6cb0-4080-b936-8b6e657f2071"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Next(method)" mc="Standard.ControlFlow" uid="070d187a-6078-4f8c-afee-9018b4f6ae2d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Decision-Merge" mc="Standard.DecisionMergeNode" uid="3d769ce7-5285-4956-80c8-5d784920c294"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="157d2ba3-f8bb-4eb6-8db4-aa934d37ad48"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Return the color from the dictionary" mc="Standard.OpaqueAction" uid="df303f80-4fc8-4e62-920b-457f1691914b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="a94dc8b4-7b20-4259-9134-020f8840e94c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Randomly select a color from the pallet" mc="Standard.OpaqueAction" uid="1284dadd-b9f3-4928-8d67-f6ce34e23f49"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="8ea9bb56-ca74-4a86-a866-e6d0b9eca736"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Store the color into the dixtionary and return it" mc="Standard.OpaqueAction" uid="2bf22982-4083-4b3a-97cc-5021f59e94be"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="d2b7f6bc-4d82-4828-bb76-13c8e1b1d44e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Activity Final Node" mc="Standard.ActivityFinalNode" uid="e7c69687-f037-4d2f-a461-e576f877b4ca"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="3da453d4-8252-4eda-b86f-cd8a2770da1d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ControlFlow" mc="Standard.ControlFlow" uid="f4cd3705-7d78-4e13-82e0-a37d8afe5bd5"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="7e3851d3-2add-4ce0-8071-305e4117232d"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

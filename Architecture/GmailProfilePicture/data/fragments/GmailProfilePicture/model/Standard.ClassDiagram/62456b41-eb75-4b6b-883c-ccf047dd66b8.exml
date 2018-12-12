@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GmailProfilePicture Class diagram" version="4">
+  <OBJECT>
+    <ID name="GmailProfilePicture Class diagram" mc="Standard.ClassDiagram" uid="62456b41-eb75-4b6b-883c-ccf047dd66b8"/>
+    <PID name="Techiix.Android.Views" mc="Standard.Package" uid="4b36abad-2e40-4d4e-a8f9-ee6d9b7ab8d4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">465</ATT>
+      <ATT name="UiData"><![CDATA[eJztXVtX20i2/iteWefhnIciqnvVIdOzaKAzrCaBY0iv6Xlh1ZVo2tgZWXRC//pTMpeAIbYsy2VJ6CFZWKDSxd+3a+9v19717u/frkaDP102TSfjv72BO8mbwd9/enei/+1MPkhtOPRmkN98cX97M8kud64m1o3SyY5N1WWmrnacTfNJtjPNVZ7+seNG7sqN8+ntZ3P/R++vzmafD24/vxlcqX9PsouHiyZvfnp3mk2+uCy/GYzVVbjWSN1MrvMDlavwu9/U6Nrd3cT4ejR68/and2/vT3h26ll+M3JvnjwCWvQI0+Lvpztmkrmd23NL3N++mhplnb2/2OG3fOh8yat8DEPcnTlw3/IDfRTucfZj8YN1Xl2P8rmHfHv7OIsePHMjlTsb7mPunX0oDg3+LI4Ur0eNrcrszv5ITad3X8mAIUKZJhA4zSkgmmkgBDbAGJ8Qbi1jWix+7WG0/Nfx5Ov4WGk3mruDszxLx5dvfnp/pdJRONGnI3eamvw6c4PZfQzu3tO7t7PTFj7mZOSOxvuTqy+TaZqHL+gH1yox1P7ndGQzV4xwnE7zJ5jBFWBvRuqvvwLcZ4+0FsyH4TbU+LJAyN33hkiyi5JklxC4CwVcmQNk4xwoCHDLtoX3tn+8d3Z2MTw8HR6eXXw4OTice/TD8fXV/5a6yV/dzX8N3ZfMTcPbVwUUPoRTviP9fPhp//zT8PCgzA2dnF68H558Ov3t6Ozo5+P5m/p5ElCnxg9j59m1KzPq3vn5msNuiPgDnQiOPWOAa6MBkVQAqcN/3FCDeKI1x6QGxu9PRpPsVI1GLm8Ot+m63D7N0iuV3Xycwa1Wmie71SnOylI8DPXtZm2ez8OjR+oLo35Q6biAyZqI5RUQW4w6/aKM++zC15cF7H68P/KP2ZH4jpiIi1DWI3Q5Qm+xUGLA6efJ14vUPBtofhLzajRdMjnOhvrD3XydZLaG0XJl/riY5i5zk7Xn7dmtjV74FlYfSulpnimTV3jCB6Q+Io+sNmtNp6lPZ/Tff/gwdNP0L6VH7n02uf4S3w7ApDcEjTMEa05RsIpQoPJwcX2du8sCiAGje/cH1kfm0TgMW8xyd98VXxKYvITT0spBPTgNvOiBuhSoTzGyLmyrBPoPsH2M2FrBClZ3/2HpEL8msM7zqX6wPrzbgSPIQItkgKlXgBiDgeJcAUyEQNpQJLmpAbDZ2P73rXj5P3Etaxecq7L3VtG7esknglVC+WayN3L0HpW9DHrIuRPAQG8Agc4CpZQAiAqjiKMUiTrk5f2T45Phxene8fHheU/jNtG4ir7RTBpHljii0lhaL6wSHnjnMSAJDtOxTwhIOIOEIcUSO+/AVqFxOg5f9di4nsJtonAVeaKRFEaRxYmoFIaISGulBNAZH2ZiGQI/Gn7yWiUOQiIY8jVQOMSYE5OGWwwRYAgBz923vGdz09n89jY4XkJ0VEXnKQacZWjvdZ6T+wP16zxkyRz0EuV7naeBOs8Hl3+e2DpEHlRF5HnA7GO4bmHxUmRZB21+Onp4mwOpHeI+zD+UCQkIpgRorw1QYVJyCUSCCNVYfL6S6WezObMXp5gqqk5T6BpZx4lLV2WpkMgAIhIECHUUSCgxkMxzRInjiaxjOvnYu4vN52tJb7GKspMGjy4bh5cSrj9bJBoofXR37Oz+2BaoHVvb6b3EEqy+B8a6LmIV/aIUULe0xgJHljHQvILfcrTWCNHKIUw5G4urROSloPuvyXgLdhZHjsa7htzN2NkCCzVjuCS8qwTv6Xjsstnqtxmuw4f1izLmhSaY0NWxHXuRRu9DlPIhxqWWwC4sGKoStP4ApttyGSLHrs8Q0YNzC95DtQjtRdy66ZY8hsiRWQ/c5nkMz381d510+lv4lBpVr+oxd5XnFWI7dwhb4k3gEsIorhSkXqlLV9zcrPRnJvsUpC2OfgxHz4qjt+CoNQu3eoVq5IC153AJDp+F5x2N0rwMkbsgnjYr106qRPabrEKXLNllKPwTcBejClXom2/F0JehPx+1uWXoylpHIeFAQ48AYRoDJTgK/wnNtcaeO72ZxhPNqZwia/ea2Gw9emWyR9Y6yOZToR0CbU2V6aSK7PHgjTanNJ3E7p4Qy/3sBFj7IvXaXNC5oWouUidV1KSGVqmTyKpSbxJiOl1r1StEKFdHyerrmGlsCSVW5rQTiK21bp2u1W6hSfU2NHK6n24+Jfqobl0gYSRzQHjKAcE2/EQ8Ach65BVxwsAlSeRSwD04/GXv0/H5xXDv4OjTWb92suny32P4d6YBBY0c70clMvKaIqbDDIQ9BQRJA7SxDCRIKw4Dx5WRNRL54Ojs9Hjv94vzw3/2peytonNnOlLQyIpIVDpz6QlUBgKMUQKIRxwIxhjwCFPDubWa1lF4dE/ngsYXZ0f/Ouy53CYud6YtBY0sZcTlMrGCOIuACWQGRBEGBFbho1HUBlITYupIsA+VTa+nPXHbQNzONKNgkRWdqMS1yBmSaAwwIgYQDgmQCGMgJETS+URotwQ4pYhbdJ84S/+KLD721K1EXdYZXYt1WddSSkLqvQZaOQxms6/UlAFGpEfOM4V0HYLsQTr9Er6jgsE9e9vA3s6IWazLYpaVPFDUJEBhpABB0APlBQaWESoZZomsRZU2aWZGrvh+evK2gbydka5Yl6Urq4XFljvgpQzhrrGBvJQlAGGUhF8kHmNeA3mzPtxtDXE7o1OxLutUPiGGCc6BhbxodmU5UEJRIL0w3nGNuKuj96LtfeZ2sbczYhXvsljlpUCQEAq4N0XGCJvgPWsBtBUCJxp5BW0N7M17sao91OWdEat4l8UqwQTF1huAcUJCuKs4kA4r4D1kMqHaGVRHsreg7qlKx/202wrudkaq4l2WqriD0IRIF0jJi76TGgFRuM/aIhjmYF/wtwbu6gDVYlH32PYMbjSDyxVO87U6yEZoUr5sv5uXaB67Qq1f3L8CzetrVs6rqDkP2N1u92MeWb/hm9/Z8+FtDriyhDkHQUIgBURiCZRXFCAjPcLKE15LBLj1sqkuTEfxm5bzKjJOQ2grIgs3UWnrNYQIMQw8xhoQQxXQmjtgndJGQEwlryNf0tO2lbQVa21ns2XaRhZt4s622ivGiQMJpiHwQ4gAwTQFiYNWWWQVFXWs6j0Zf3Bq2pO1HWRt8T4+IrJKE5WsKBDSyhCzcSQ8IIpKoJUmgEKkoPdcwGf7lFQj60GmvvZMbQFTW7yFj4gstERlqtbMMUY1cIoHpkqugeBagURLYaTwXCZ1eMNH47QXUZvK03IaqujQ1j0idiufXjtdgd01beEjuraFj4wsyzxLSrQcte1pwi87toWPjKxMdA25m7W3W9vKRzZ3K5/VIR67u20P8ZVcivV39JHt39FHRg5ln23/2oN0i05FB3b2kZEDtx7AzXUkXsMOP7LLO/zAJHZ/2n5HgBXY3O/1s025FSZN2+wHimRXkmQXC74LURW697v9LL6h17bbj9ZhJoLUAY24BgTjYh1/ooDlxhqjoGNyPhdWxUzub6nvxKJgEiYN3+WnOsujb2kca1ZvM1xr2t6n2ON6ddg++KLN2d8HJpGlkIIXPUz7jX06srEPTDq0sw9MIstKvTGI4mI1fU8fuuTVvwRVGFkzKbjRQzXqXj4QdqaPBISRM//wWep2k9XoJLGCYIGBU8IBoiEHiiYaOE2M1IhCzOZV3iqQ/We/dLKpYt4TrHemhQSEsYP4qLTlzjOHkAGOKAsIlxYobDBIhHJUQpJIV0fl7u89bVtB2870OYUwtqgRl7YICmGSwFgnRaCtJkBD5IqGicHPgIw5WQdt+409ms3dkvkzuFbfjAg9X6qI6zC6UNFHfzGbvUDY4rYREMXWJuDm0fnwPgdQUGskISHEg7DY40IBSRQEnihtEs+p1I1F6CuZghpVMBdcku5UzBUF2/3M0zhe11QqB1G1Sozm1soVSxfi4vVZR4OW47U9C9shqlaZ0dhyOYhix/FdA+9GjO3W6uQgqrF0Y9uFchD1MWwDwV1HhRxE1Urum1QiB3HsIBb18Ny+C4GrxWqNKo6DOHaM1kO3cW7Da6iKg7hSuNqWsjjcr6BvII37crjoYupSK3Ocjv+YvuiJ4kpJ/el0YtL7TMre908rW4Qnt7IwmP++Nrog9Cg8ULj0qco/l7nm2eQ6M25vbD5PsvmrLg4Zn19VzUYpPJmhujkbpbZYkH03dIlbsan3AVVj4+awcJCGK80M/0Pic5dUaHF44Kb5y0+6MJ7c7pNytovQfAPFEg9bAOAOSj9yBubOGAbwuezXdDxvJVarZdyfBDfWFJi/HfDIPjzMyfD8HyfvTz7uHS+xCjNQDtUf8+9nuVObq+zS5eVOLfEWX5xcF4aoGy1C3cDamO8maoCFEtQlBECiPSCCaqAVsgBropiWQnpRx9wazrHXppRUcGudHr0QsmQxbEHxR3++ZM9x9y2/pVsxA3xQX55+z2RhGL9oAvjPtRrd16j83/3P21IjyMK4dAO+YOBHRNQeju0gwQxLqhXgBiJAFPZAGyOBQVhQ6D1JRB0taFcAblmX8NZcXTwApuYo7yX0PMHGwnD/h5qFn2RXs5fvR5Ov9+ucjsLhX8LnrcluZGFI1wmgIyWpNNCDJBhkQKw0QHMlASUeS2mt5Wz+nqoAvUaA307lFwVmCrBcXG5YhSMLI98XXLnvc0DA8C9FfWP4WY2+ezHHE6Pycn6dvzt93qubXOvHtfE7aMm8dL1EEViSMvlzyelgWc5lWYln2XXRpFpW9Yfm5e5wYWX2smzydRtGJnZetbOzaf2z6IORUQU4Xhr/ZZSuGuduw2Tw7ZqMWAZjcSBeRnMZhisXYuz6OmxFA1E6OmytgWitFzITGl+J+Bp/hxZIFwfMSwzpd/MZMPZlkq5iRZdZvyXGc6nDtExHeCaZVW6KQatlkZvsMtHYOeXeIq4el63mMtHF2dNmuExbjrLWdJnKW4zFEe+KeaptuU10YajYeiMRS1uv0UJcqXT8qjymbVSO01Uzu9swpFtWq1Ck4JNWWSJdsMkEsqfhS0iDjblbE1REofvfD2/NqpZeKN02g9qJtE8BnPI+1+KV0e2NrtYOrsoSnHUjocu6n9BtbTy1rUQu61Iil3U/kdv+HMumE7msDYncLWdloiVyWZVEbrNdY1Y6kdtG+9LaCXQll5itlbntsktcWj1k7c+4su5nXFsf6b4mHXELmVfeZ14rFQ7N1nz/ePT3V0V5UMmywyXNNrP7LZ6CEZiM5qsTIlmBJ6meis/1MgAr9RvfSLEUXxwKb6hYiq+aEY1XQpTsFtJ2fdVSfNXILGK1lOC7FfrJPquVenyV02AQ8+/FuIzvcn77OvuCqnoKqnjp3G/LCqqIYkxjq0BCKQWEcwaUQgQIKWninHbQmBrctrNgXNVlmarideupij3n1qio4ouznW1c3MQXhqAbCD6eSU4bDz4U5U5bSUAIfBwgFlOgBZJAc6k0JNRhvMRLa9fiJr5qNXC/uGlji5t4lXZQzRYeRenuUL2xaKrwKBaHO+2Nt+MJj6LmjGUDfAERO28Zn96YQIOFkoAxqQExCQISIwuYZdhRzrWUDcsrrFcbJvosZFNqw8T6/Xi2nakQsYtHO2sgyoe8faKiSYkK0dWM7WYTFU9eYZWMbVOXeonYuds+Impezw65VvbydQgu0ZZ6yZoLULdqXmTs0tPOOlwtXkkq21Cs+lpWksrK1aqNqsGQsctVe7+l8TUYskp2s9m5Clk6u9lGhLddq1gpZSHXymo2OPKOFnjLKrnIxk1dKIm9O01P7Ja0g0VJras4tzRpoaTbQV+sVWV9K5HqyvoWWomgpA1h7utoJYKS9XsybTlXiZI+wm1shPuaTGn8JCVK1mrK1OBQacN9LFtWTrV+lFBrOdXScpKfLw8y9TXYgWN147J5c10usW5vR5jujIoxAlqfDBlnllntrCq7xB3cPvaAIUKZJhA4zYOnrJkGQmADjPEJ4dYGP3p++8m5q6fzhLi3xAfvd473fj8cXvy8t//r++HJp48Hde/Q+MNRHn9nL+5dhpJyYk+PhrrRcH5yGm2jzv8HKJfAMg==]]></ATT>
+      <ATT name="Name"><![CDATA[GmailProfilePicture Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="ColorPallet" mc="Standard.Class" uid="b0873f66-7bcb-4958-9b58-7c5c270bb734"/>
+        <REFOBJ>
+          <ID name="rnd(static)" mc="Standard.Attribute" uid="e42c1d29-9bfa-4cc3-a77a-34882bc5297c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="COLOR_PALLET(static)" mc="Standard.Attribute" uid="61f177e8-c1fc-41ed-aaa8-258ca4e55288"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="instance(static)" mc="Standard.Attribute" uid="9df8da8f-fef3-4039-9f04-0761462a60d0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ColorPallet" mc="Standard.Operation" uid="9be27fcf-5689-4354-bfbc-a95ce012848a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Next(static)" mc="Standard.Operation" uid="9ad5892c-4802-45e5-9193-96f7254e7094"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="associateCollorText(static)" mc="Standard.Attribute" uid="1249dd99-1ecf-4198-95cf-fba0e114862f"/>
+        </REFOBJ>
+        <ID name="GmailProfilePicture" mc="Standard.Class" uid="adde5147-b1f2-46b3-a872-a88b7bb3f7eb"/>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="2a959c1f-0a6b-4d9c-b7a9-54f399ddd769"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Producer" mc="Standard.AssociationEnd" uid="036395ba-7c12-4a3f-bcc9-c23851ff4087"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="DEFAULT_RADIUS(static)" mc="Standard.Attribute" uid="e828c96e-8f57-43de-84f4-2df2fa4e8c15"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="DEFAULT_DISPLAY_TEXT(static)" mc="Standard.Attribute" uid="2fb526b7-b3f5-429c-bcd6-02ba718c9ac9"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="DEFAULT_TEXT_SIZE(static)" mc="Standard.Attribute" uid="79f41ac1-3320-4f27-8666-f235c77ddb5a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Radius" mc="Standard.Attribute" uid="74d84ed2-c332-4a46-83a2-cca5d66644c4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="TextSize" mc="Standard.Attribute" uid="d2ec40b3-324c-4714-9233-89129ef08bee"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="DisplayText" mc="Standard.Attribute" uid="aa915ffb-bae3-4ed2-9b56-649f2ef6a2bb"/>
+        </REFOBJ>
+        <ID name="CircleData" mc="Standard.Class" uid="bbace15e-b27b-4339-bd0a-d7cdcca1e696"/>
+        <REFOBJ>
+          <ID name="X" mc="Standard.Attribute" uid="40d84383-ea8e-4b17-a50b-eb4c9b251363"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Y" mc="Standard.Attribute" uid="7ef6e22c-e4ad-479d-a3c3-08ae591409ed"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Radius" mc="Standard.Attribute" uid="72188c0d-4e98-47b4-b12e-9f8112166e9d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CircleData" mc="Standard.Operation" uid="185dc944-a511-4eda-94a1-f4abc0f759b6"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Storage" mc="Standard.AssociationEnd" uid="341c38a9-669b-4c02-932d-6d63e577b999"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="a57ebd94-139e-4d35-b829-b79ab145e335"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="GmailProfilePicture" mc="Standard.Operation" uid="7ad46ee1-0415-4939-afa5-2c9f23af471d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="GmailProfilePicture" mc="Standard.Operation" uid="fb112263-f33b-4c5a-bb7e-deabc8135977"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="circleData" mc="Standard.Attribute" uid="d97f6ac0-a32a-421f-af83-d64596360915"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="OnMeasure" mc="Standard.Operation" uid="7bfa674e-035c-4224-86b5-0e1dad2da584"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="OnDraw" mc="Standard.Operation" uid="2d2dd972-728f-4a59-bab4-512a1ff78122"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="radius" mc="Standard.Attribute" uid="db8d3d7e-f992-4cdf-a560-2320d3d0f337"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="displayText" mc="Standard.Attribute" uid="f04c6877-d179-43d7-a8a5-9f8cfe7b27ef"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="textSize" mc="Standard.Attribute" uid="f9821445-7fc0-4f3c-a3b8-bd8830b2fa1d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="textPaint" mc="Standard.Attribute" uid="86853dfc-3304-42a7-9e3a-ff16905bec2a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="backgroundPaint" mc="Standard.Attribute" uid="7e11cf99-997c-48b2-8179-bd21f3cf905b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Init" mc="Standard.Operation" uid="bb6e665b-ea7f-497b-87ba-0b98c98f7907"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="12a2721f-e1a2-4231-9d63-60d047acbe01"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

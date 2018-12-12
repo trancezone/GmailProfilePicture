@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GmailProfilePicture" version="4">
+  <OBJECT>
+    <ID name="GmailProfilePicture" mc="Infrastructure.DiagramSet" uid="98770b47-e8e1-42b1-82ce-62bd9292c2ff"/>
+    <PID name="GmailProfilePicture" mc="Standard.Project" uid="c48f78fd-8e6b-49d1-bbb7-d7d8cf8729f5"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[GmailProfilePicture]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
