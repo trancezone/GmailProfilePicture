@@ -6,6 +6,7 @@ using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using Techiix.Librarian.Android.Views;
 
 namespace ToTestAssembly
 {
@@ -23,6 +24,10 @@ namespace ToTestAssembly
 
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
+
+            var prof_pic2=(GmailProfilePicture) this.FindViewById(Resource.Id.profile_pic2);
+            prof_pic2.DisplayText = "TEXT";
+            return;
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)

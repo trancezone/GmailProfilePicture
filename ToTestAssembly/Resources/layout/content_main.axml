@@ -17,13 +17,24 @@
 
 
 		<techiix.android.views.GmailProfilePicture
-                      android:id="@+id/profile_pic"
+                      android:id="@+id/profile_pic1"
 			          gmail_profile:radius="20"
                       gmail_profile:text_size="24"
-					  gmail_profile:display_text="ES"
+					  gmail_profile:display_text="T"
                       android:layout_width="wrap_content"
                       android:layout_height="wrap_content"
                       android:layout_alignParentLeft="true"
+                      android:layout_centerVertical="true"
+                      android:layout_marginRight="16dp" /> 
+
+
+		<techiix.android.views.GmailProfilePicture
+                      android:id="@+id/profile_pic2"
+			          gmail_profile:radius="20"
+                      gmail_profile:text_size="24"
+					  gmail_profile:display_text="T"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
                       android:layout_centerVertical="true"
                       android:layout_marginRight="16dp" /> 
 

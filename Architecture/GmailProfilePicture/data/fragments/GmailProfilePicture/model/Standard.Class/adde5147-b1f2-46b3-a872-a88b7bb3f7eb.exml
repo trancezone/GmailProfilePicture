@@ -791,7 +791,8 @@ ArgumentException - A passed value can not be an empty string]]></ATT>
                 <ID name="" mc="Standard.Constraint" uid="093366f4-9c13-4576-8fe7-f181a540c548"/>
                 <ATTRIBUTES>
                   <ATT name="BaseClass"></ATT>
-                  <ATT name="Body"><![CDATA[a text is set]]></ATT>
+                  <ATT name="Body"><![CDATA[a text is set
+the view is reinitialized]]></ATT>
                   <ATT name="Language"></ATT>
                   <ATT name="Name"></ATT>
                   <ATT name="status">1970354901745664</ATT>

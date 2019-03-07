@@ -28,14 +28,13 @@ namespace Techiix.Librarian.Android.Views
         private TextPaint textPaint = new TextPaint(); //Used for a text measuring and drawing
         private Paint backgroundPaint = new Paint(); //Used for a drawing of the background
 
-
-
         /// <summary>
         /// Gets/Sets a text that is displayed
         /// </summary>
         /// 
         /// <Postcondition>
         /// a text is set
+        /// the view is reinitialized
         /// </Postcondition>  
         /// 
         /// <Exceptions>
@@ -56,6 +55,7 @@ namespace Techiix.Librarian.Android.Views
                     throw new ArgumentException("A passed value can not be an empty string");
 
                 this.displayText = value.Trim();
+                this.Init();
             }
             get
             {
@@ -138,7 +138,7 @@ namespace Techiix.Librarian.Android.Views
         public GmailProfilePicture(Context context) : base(context)
         {
             this.Radius = GmailProfilePicture.DEFAULT_RADIUS;
-            this.DisplayText = GmailProfilePicture.DEFAULT_DISPLAY_TEXT;
+            this.displayText = GmailProfilePicture.DEFAULT_DISPLAY_TEXT;
             this.TextSize = GmailProfilePicture.DEFAULT_TEXT_SIZE;
 
             this.Init();
@@ -180,7 +180,7 @@ namespace Techiix.Librarian.Android.Views
             else if (tmpDisplayText == null)
                 throw new ArgumentException(String.Format(exceptionMessage, "DisplayText"));
 
-            this.DisplayText = tmpDisplayText;
+            this.displayText = tmpDisplayText;
             this.TextSize = tmpTextSize;
             this.Radius = tmpRadius;
             
