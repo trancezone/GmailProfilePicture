@@ -203,7 +203,7 @@ namespace Techiix.Librarian.Android.Views
             this.textPaint.SetStyle(Paint.Style.Fill);
             this.textPaint.TextSize = this.TextSize * this.Resources.DisplayMetrics.Density;
 
-            this.backgroundPaint.Color = ColorPallet.Next(this.displayText);
+            this.backgroundPaint.Color = ColorPalette.Next(this.displayText);
             this.backgroundPaint.SetStyle(Paint.Style.Fill);
             this.backgroundPaint.AntiAlias = true;
             this.backgroundPaint.StrokeWidth = 0;

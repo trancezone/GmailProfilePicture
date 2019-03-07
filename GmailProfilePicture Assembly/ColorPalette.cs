@@ -4,15 +4,15 @@ using Android.Graphics;
 
 namespace Techiix.Librarian.Android.Views
 {
-    /// <name>ColorPallet</name>
+    /// <name>ColorPalette</name>
     /// <summary>
     /// Selects a randomly a color from predefined pallet
     /// </summary>
-    internal class ColorPallet
+    internal class ColorPalette
     {
         private static Random rnd = new Random(); //a random number generator
-        private static Color[] COLOR_PALLET; //Contains a predefined pallet of colors
-        private static ColorPallet instance = null; //Contains an instance of the class (singlton pattern)
+        private static Color[] COLOR_PALETTE; //Contains a predefined palette of colors
+        private static ColorPalette instance = null; //Contains an instance of the class (singlton pattern)
         private static Dictionary<string, Color> associateCollorText = new Dictionary<string, Color>(); //a dictionary used to associate the passed text and randomly selected colors
 
 
@@ -23,9 +23,9 @@ namespace Techiix.Librarian.Android.Views
         /// <Postcondition>
         /// the created pallet is stored 
         /// </Postcondition> 
-        public ColorPallet()
+        public ColorPalette()
         {
-            ColorPallet.COLOR_PALLET = new Color[] {
+            ColorPalette.COLOR_PALETTE = new Color[] {
                 Color.ParseColor("#f58559"),
                 Color.ParseColor("#f9a43e"),
                 Color.ParseColor("#e4c62e"),
@@ -59,13 +59,13 @@ namespace Techiix.Librarian.Android.Views
         public static Color Next(string textToAssociate)
         {
             if (instance == null)
-                ColorPallet.instance = new ColorPallet();
+                ColorPalette.instance = new ColorPalette();
 
-            if (ColorPallet.associateCollorText.ContainsKey(textToAssociate))
-                return ColorPallet.associateCollorText[textToAssociate];
+            if (ColorPalette.associateCollorText.ContainsKey(textToAssociate))
+                return ColorPalette.associateCollorText[textToAssociate];
 
-            Color randomColor = ColorPallet.COLOR_PALLET[ColorPallet.rnd.Next(0, ColorPallet.COLOR_PALLET.Length)];
-            ColorPallet.associateCollorText.Add(textToAssociate, randomColor);
+            Color randomColor = ColorPalette.COLOR_PALETTE[ColorPalette.rnd.Next(0, ColorPalette.COLOR_PALETTE.Length)];
+            ColorPalette.associateCollorText.Add(textToAssociate, randomColor);
             return randomColor;
         }
     }

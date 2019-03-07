@@ -3,6 +3,6 @@
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <SelectedDevice>librarian_android</SelectedDevice>
+    <SelectedDevice>my_device</SelectedDevice>
   </PropertyGroup>
 </Project>

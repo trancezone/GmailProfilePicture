@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CircleData.cs" />
-    <Compile Include="ColorPallet.cs" />
+    <Compile Include="ColorPalette.cs" />
     <Compile Include="GmailProfilePicture.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
