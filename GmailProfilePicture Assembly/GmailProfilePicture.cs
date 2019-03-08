@@ -168,17 +168,48 @@ namespace Techiix.Librarian.Android.Views
         {
             TypedArray typedArray = this.Context.ObtainStyledAttributes(attrs, Resource.Styleable.GmailProfilePicture);
            
-            string exceptionMessage= "The parameter {0} is expected to be defined in XML or IAttributeSet but it is ommited";
-            int tmpRadius= typedArray.GetInteger(Resource.Styleable.GmailProfilePicture_radius, int.MinValue);
-            string tmpDisplayText= typedArray.GetString(Resource.Styleable.GmailProfilePicture_display_text);
-            int tmpTextSize= typedArray.GetInteger(Resource.Styleable.GmailProfilePicture_text_size, int.MinValue);
+            string exceptionMessageRequired= "The parameter {0} is expected to be defined in XML or IAttributeSet but it is ommited";
+            string exceptionMessageWrongFormat = "The parameter {0} does not have a correct format. The format’s type has to be {2}";
+
+            int tmpRadius = 0;
+            string tmpDisplayText=String.Empty;
+            int tmpTextSize=0;
+
+            try
+            {
+                tmpRadius = typedArray.GetInteger(Resource.Styleable.GmailProfilePicture_radius, int.MinValue);
+            }
+            catch(Exception)
+            {
+                throw new ArgumentException(String.Format(exceptionMessageWrongFormat,"radius","int"));
+            }
+
+            try
+            {
+                tmpDisplayText = typedArray.GetString(Resource.Styleable.GmailProfilePicture_display_text);
+            }
+            catch (Exception)
+            {
+                throw new ArgumentException(String.Format(exceptionMessageWrongFormat, "display_text", "string"));
+            }
+
+            try
+            {
+                tmpTextSize = typedArray.GetInteger(Resource.Styleable.GmailProfilePicture_text_size, int.MinValue);
+            }
+            catch (Exception)
+            {
+                throw new ArgumentException(String.Format(exceptionMessageWrongFormat, "text_size", "int"));
+            }
+            
+
 
             if (tmpRadius == int.MinValue)
-                throw new ArgumentException(String.Format(exceptionMessage, "Radius"));
+                throw new ArgumentException(String.Format(exceptionMessageRequired, "Radius"));
             else if (tmpTextSize == int.MinValue)
-                throw new ArgumentException(String.Format(exceptionMessage, "TextSize"));
+                throw new ArgumentException(String.Format(exceptionMessageRequired, "TextSize"));
             else if (tmpDisplayText == null)
-                throw new ArgumentException(String.Format(exceptionMessage, "DisplayText"));
+                throw new ArgumentException(String.Format(exceptionMessageRequired, "DisplayText"));
 
             this.displayText = tmpDisplayText;
             this.TextSize = tmpTextSize;
