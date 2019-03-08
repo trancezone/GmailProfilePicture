@@ -608,7 +608,8 @@
                 <ID name="" mc="Standard.Constraint" uid="7dc94c76-b85f-4621-a124-46796e6ad126"/>
                 <ATTRIBUTES>
                   <ATT name="BaseClass"></ATT>
-                  <ATT name="Body"><![CDATA[a value for the radius is set]]></ATT>
+                  <ATT name="Body"><![CDATA[a value for the radius is set
+the view is reinitialized]]></ATT>
                   <ATT name="Language"></ATT>
                   <ATT name="Name"></ATT>
                   <ATT name="status">1970354901745664</ATT>
@@ -684,7 +685,8 @@
                 <ID name="" mc="Standard.Constraint" uid="6d5d1b5e-d908-4340-937a-b5215ce4b6a1"/>
                 <ATTRIBUTES>
                   <ATT name="BaseClass"></ATT>
-                  <ATT name="Body"><![CDATA[a value for the text size is set]]></ATT>
+                  <ATT name="Body"><![CDATA[a value for the text size is set
+the view is reinitialized]]></ATT>
                   <ATT name="Language"></ATT>
                   <ATT name="Name"></ATT>
                   <ATT name="status">1970354901745664</ATT>

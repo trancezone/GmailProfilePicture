@@ -44,6 +44,7 @@ namespace Techiix.Librarian.Android.Views
         /// 
         /// <Return>
         /// string: a text that's displayed
+        /// the view is reinitialized
         /// </Return> 
         public string DisplayText
         {
@@ -69,6 +70,7 @@ namespace Techiix.Librarian.Android.Views
         /// 
         /// <Postcondition>
         /// a value for the text size is set
+        /// the view is reinitialized
         /// </Postcondition>  
         /// 
         /// <Exceptions>
@@ -90,6 +92,7 @@ namespace Techiix.Librarian.Android.Views
                     throw new ArgumentNullException("a value of the text size has to be greater than 0");
 
                 this.textSize = value;
+                this.Init();
             }
         }
 
@@ -120,6 +123,7 @@ namespace Techiix.Librarian.Android.Views
                     throw new ArgumentNullException("a value of the radius has to be greater than 0");
 
                 this.radius = value;
+                this.Init();
             }
         }
 
@@ -137,9 +141,9 @@ namespace Techiix.Librarian.Android.Views
         /// </Postcondition>  
         public GmailProfilePicture(Context context) : base(context)
         {
-            this.Radius = GmailProfilePicture.DEFAULT_RADIUS;
+            this.radius = GmailProfilePicture.DEFAULT_RADIUS;
             this.displayText = GmailProfilePicture.DEFAULT_DISPLAY_TEXT;
-            this.TextSize = GmailProfilePicture.DEFAULT_TEXT_SIZE;
+            this.textSize = GmailProfilePicture.DEFAULT_TEXT_SIZE;
 
             this.Init();
         }
@@ -175,6 +179,7 @@ namespace Techiix.Librarian.Android.Views
             string tmpDisplayText=String.Empty;
             int tmpTextSize=0;
 
+
             try
             {
                 tmpRadius = typedArray.GetInteger(Resource.Styleable.GmailProfilePicture_radius, int.MinValue);
@@ -201,7 +206,6 @@ namespace Techiix.Librarian.Android.Views
             {
                 throw new ArgumentException(String.Format(exceptionMessageWrongFormat, "text_size", "int"));
             }
-            
 
 
             if (tmpRadius == int.MinValue)
@@ -212,8 +216,8 @@ namespace Techiix.Librarian.Android.Views
                 throw new ArgumentException(String.Format(exceptionMessageRequired, "DisplayText"));
 
             this.displayText = tmpDisplayText;
-            this.TextSize = tmpTextSize;
-            this.Radius = tmpRadius;
+            this.textSize = tmpTextSize;
+            this.radius = tmpRadius;
             
             this.Init();
         }
